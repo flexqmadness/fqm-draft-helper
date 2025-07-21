@@ -1,10 +1,12 @@
-# FqmDraftHelper
+# Draft Helper for FQM
 
 <div align="center"> 
+    <img src=".github/assets/draft.gif" alt="A gif of a barking dog subtitles with the word 'draft'"/>
+</div>
 
-![FQM-Logo](https://wiki.fqm.lol/fqm-logo.webp)
+> [!NOTE]
+> More information coming soon™ (or not)
 
- </div>
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.1.1.
 
